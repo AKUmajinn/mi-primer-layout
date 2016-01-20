@@ -1,0 +1,104 @@
+.encabezado{
+	/*margin: 8% 23%;*/
+	text-align: center;
+	margin-top: 3%;
+}
+nav{
+ border-top: 1px solid black;
+ border-bottom: 1px solid black;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+li{
+	display: inline-block;
+	text-decoration: none;	
+   font-size:28px;
+        
+}
+.intro{
+	text-align: center;
+	padding:0px 230px;
+	font-size: 28px;
+}
+.superior, .inferior{
+	margin-left: 380px;
+}
+hr{
+	width: 100px;	
+}
+.img{
+	display: inline-block;
+	position: relative;
+}
+
+.uno{
+	z-index: 4;
+    position: relative;
+    bottom: 50px;
+    left: 64px;
+    color: white;
+}
+.dos{
+	z-index: 4;
+    position: relative;
+    bottom: 50px;
+    left: 64px;
+    color: white;
+}
+
+/*css de la pagna detalles*/
+
+.perfil{
+	border-radius: 100%;
+}
+
+.detalles{
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+	font-size: 20px;
+}
+h2{
+	margin-left: 120px;
+}
+.html, .css, .javascript{
+	margin:10px 150px 10px;
+	height: 55px;
+	background-color: grey;
+	color:white;
+}
+.habilitiesbox{
+	margin-left: 30px;
+    margin-top: 61px;
+}
+.habilities{
+	position: absolute;
+	z-index: 4;
+	left: 200px;
+}
+.portafolioview{
+	margin-left:75px;
+	margin-top: 77px;
+}
+.html{
+	width:850px; 
+}
+
+.css{
+	width: 600px;
+}
+.javascript{
+	width: 300px;
+}
+.pfoto{
+	width: 270px;
+	margin: 25px;
+}
+
+.psuperior, .pinferior{
+	position: relative;
+    left: 159px;
+}
+.ptitle{
+	margin-left: 75px;
+}
